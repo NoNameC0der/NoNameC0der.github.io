@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SecretCommApp/static/css/main.93062378.chunk.css",
+    "main.js": "/SecretCommApp/static/js/main.7ed7d1bb.chunk.js",
+    "main.js.map": "/SecretCommApp/static/js/main.7ed7d1bb.chunk.js.map",
+    "runtime-main.js": "/SecretCommApp/static/js/runtime-main.ec0e1e80.js",
+    "runtime-main.js.map": "/SecretCommApp/static/js/runtime-main.ec0e1e80.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/SecretCommApp/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.3a7b88ce.chunk.js": "/SecretCommApp/static/js/2.3a7b88ce.chunk.js",
+    "static/js/2.3a7b88ce.chunk.js.map": "/SecretCommApp/static/js/2.3a7b88ce.chunk.js.map",
+    "index.html": "/SecretCommApp/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/SecretCommApp/static/css/2.a2ab3232.chunk.css.map",
+    "static/css/main.93062378.chunk.css.map": "/SecretCommApp/static/css/main.93062378.chunk.css.map",
+    "static/js/2.3a7b88ce.chunk.js.LICENSE.txt": "/SecretCommApp/static/js/2.3a7b88ce.chunk.js.LICENSE.txt",
+    "static/media/Liza.98ff00fc.png": "/SecretCommApp/static/media/Liza.98ff00fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec0e1e80.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.3a7b88ce.chunk.js",
+    "static/css/main.93062378.chunk.css",
+    "static/js/main.7ed7d1bb.chunk.js"
+  ]
+}
